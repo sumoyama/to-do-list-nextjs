@@ -30,7 +30,7 @@ export default function Home({posts, comments} : HomeProps) {
         </div>
         <h1 className={styles.title}>
           Sistema feito para você organizar <br />
-          seus estudos e terefas
+          seus estudos e tarefas
         </h1>
       </main>
       <div className={styles.infoContent}>
